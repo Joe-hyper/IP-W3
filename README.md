@@ -1,6 +1,24 @@
 # IP-W3
-Application name: 
+**Application name:**
+
+Joseph_Njuguna W3 IP
+
+**Name of contributor:**
+
 Joseph Njuguna
-By Joseph Njuguna.
-Purpose of project is to conduct a data report for MTN .
-The language used is Python.
+
+**Project purpose:**
+
+Conduct of data report for MTN Cote d' Voire
+
+**Setup/installation:**
+
+Import python libraries: numpy and panda
+
+**Technologies used** 
+
+Google collab , Pyton
+
+**Disclaimer**
+
+Google Collabs was used instead of Python 
