@@ -17,7 +17,7 @@ Import python libraries: numpy and panda
 
 **Technologies used** 
 
-Google collab , Pyton
+Google collab , Python
 
 **Disclaimer**
 
